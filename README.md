@@ -10,4 +10,10 @@ areas = ["hallway", 11.25, "kitchen", 18.0, "living room", 20.0, "bedroom", 10.7
 eat_sleep_area = areas[3] + areas[7]
 print(str(eat_sleep_area))
 ```
-You know that in python when slicing a sub-list, like x[start:end], 
+You know that in python when slicing a sub-list, like x[start:end], the element with the index end would not be included:           
+```python
+x = [1,2,3,4]
+y = x[0:3]
+# y = [1,2,3]
+```
+
