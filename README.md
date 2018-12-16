@@ -1,5 +1,5 @@
 # Introduction to Python_Python Basics                     
-## Basic Computing on the Lists:          
+## Basic Manipulations on the Lists:          
 ```python
 x = ["a", "b", "c", "d"]
 print(x[1] + x[3])
@@ -16,4 +16,5 @@ x = [1,2,3,4]
 y = x[0:3]
 # y = [1,2,3]
 ```
+If we donnot specify the starting index, the execution would start from the first element, with similarity to the ending index related the last element.                  
 
