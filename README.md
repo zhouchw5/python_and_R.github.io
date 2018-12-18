@@ -34,4 +34,5 @@ y = x[:]
 ## Elementary Operations             
 To update the specific element:            
 >areas[3] = "chill zone"             
+Using the "+" to combine two vectors, but how can we construct a new vector with the elements as the addition of the corresponding elements of the two vector?           
 
