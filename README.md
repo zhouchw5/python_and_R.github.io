@@ -18,3 +18,4 @@ y = x[0:3]
 ```
 If we donnot specify the starting index, the execution would start from the first element, with similarity to the ending index related the last element.                  
 
+>del
