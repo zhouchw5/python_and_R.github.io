@@ -33,7 +33,8 @@ y = x[:]
 ```
 ## Elementary Operations        
 To delete list elements:          
->del(x[1])           
+>del(x[1])   
+>del(x[-4:-2])
 
 To update the specific element:            
 >areas[3] = "chill zone"             
