@@ -24,5 +24,11 @@ x = ["a", "b", "c"]
 y = x
 y[1] = "z"
 ```
-When we change the elements of y[1] as z, the corresponding element of the original list x has also changed. That's because when we copy the original list x to y with the equal sign, 
+When we change the elements of y[1] as z, the corresponding element of the original list x has also changed. That's because when we copy the original list x to y with the equal sign, we just copy the reference of x to y, not the actual values themselves, which means both x and y point to the same list. So when you edit the list via the pointer either x or y, the list would update no matter refered by x or y.             
+To avoid this confusion, we can state alternatively,            
+```python
+y = list(x)
+# or
+y = x[:]
+```
 
