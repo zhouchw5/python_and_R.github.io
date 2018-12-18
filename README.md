@@ -16,6 +16,13 @@ x = [1,2,3,4]
 y = x[0:3]
 # y = [1,2,3]
 ```
-If we donnot specify the starting index, the execution would start from the first element, with similarity to the ending index related the last element.                  
+If we donnot specify the starting index, the execution would start from the first element, with similarity to the ending index related the last element.                   
+                 
+Before introducing some more general manipulations on the lists, I would like to explore more behind the scenes, which would help us understand how Python lists actually work. When we create a list x as below, an 'address' of the list would be stored in the computer memory and 'x' would contain a reference to the list, rather that containing all the elements of the list. For basic operations, the difference is not that important, but it becomes more so when we start copying lists.                
+```python
+x = ["a", "b", "c"]
+y = x
+y[1] = "z"
+```
+When we change the elements of y[1] as z, the corresponding element of the original list x has also changed. That's because when we copy the original list x to y with the equal sign, 
 
->del
