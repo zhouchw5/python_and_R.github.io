@@ -31,4 +31,7 @@ y = list(x)
 # or
 y = x[:]
 ```
+## Elementary Operations             
+To update the specific element:            
+>areas[3] = "chill zone"             
 
