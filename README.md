@@ -26,4 +26,8 @@ Then we can figure out this result more algebraically by using the middle school
 We set 
 <a href="https://www.codecogs.com/eqnedit.php?latex=x_{n}=k" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{n}=k" title="x_{n}=k" /></a>, 
 and 
-<a href="https://www.codecogs.com/eqnedit.php?latex=x_{n&plus;1}=\sqrt{6&plus;k}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{n&plus;1}=\sqrt{6&plus;k}" title="x_{n+1}=\sqrt{6+k}" /></a>.           
+<a href="https://www.codecogs.com/eqnedit.php?latex=x_{n&plus;1}=\sqrt{6&plus;k}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{n&plus;1}=\sqrt{6&plus;k}" title="x_{n+1}=\sqrt{6+k}" /></a>, 
+interested in the difference 
+<a href="https://www.codecogs.com/eqnedit.php?latex=(6&plus;k-k^2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(6&plus;k-k^2)" title="(6+k-k^2)" /></a>.            
+
+
