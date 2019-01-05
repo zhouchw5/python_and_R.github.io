@@ -36,6 +36,11 @@ we can find that when
 <a href="https://www.codecogs.com/eqnedit.php?latex=x_{n&plus;1}\geq&space;x_{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{n&plus;1}\geq&space;x_{n}" title="x_{n+1}\geq x_{n}" /></a>;               
 and 
 <a href="https://www.codecogs.com/eqnedit.php?latex=k\in&space;\left&space;(&space;3,&space;&plus;\infty&space;\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?k\in&space;\left&space;(&space;3,&space;&plus;\infty&space;\right&space;)" title="k\in \left ( 3, +\infty \right )" /></a>, 
-<a href="https://www.codecogs.com/eqnedit.php?latex=x_{n&plus;1}&space;<&space;x_{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{n&plus;1}&space;<&space;x_{n}" title="x_{n+1} < x_{n}" /></a>.               
+<a href="https://www.codecogs.com/eqnedit.php?latex=x_{n&plus;1}&space;<&space;x_{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{n&plus;1}&space;<&space;x_{n}" title="x_{n+1} < x_{n}" /></a>, 
+which would give us 
+<a href="https://www.codecogs.com/eqnedit.php?latex=x_{n}\rightarrow&space;3" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{n}\rightarrow&space;3" title="x_{n}\rightarrow 3" /></a>, 
+when 
+<a href="https://www.codecogs.com/eqnedit.php?latex=n\rightarrow&space;&plus;\infty" target="_blank"><img src="https://latex.codecogs.com/gif.latex?n\rightarrow&space;&plus;\infty" title="n\rightarrow +\infty" /></a>. 
+
 
 
