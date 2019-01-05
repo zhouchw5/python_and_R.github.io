@@ -45,6 +45,8 @@ More mathematically, we rewrite the recurrence relation:
 <a href="https://www.codecogs.com/eqnedit.php?latex=x_{n&plus;1}&space;-&space;x_{n}&space;=&space;\sqrt{6&plus;x_{n}}&space;-&space;x_{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{n&plus;1}&space;-&space;x_{n}&space;=&space;\sqrt{6&plus;x_{n}}&space;-&space;x_{n}" title="x_{n+1} - x_{n} = \sqrt{6+x_{n}} - x_{n}" /></a>.            
 And the corresponding continuous form:         
 <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{dx}{dt}&space;=&space;\sqrt{6&plus;x}-x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{dx}{dt}&space;=&space;\sqrt{6&plus;x}-x" title="\frac{dx}{dt} = \sqrt{6+x}-x" /></a>        
+<a href="https://www.codecogs.com/eqnedit.php?latex=\sqrt{6&plus;x}-x=0\;\rightarrow&space;\;&space;x_{0}=3&space;\left&space;(&space;within&space;\;x>0&space;\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sqrt{6&plus;x}-x=0\;\rightarrow&space;\;&space;x_{0}=3&space;\left&space;(&space;within&space;\;x>0&space;\right&space;)" title="\sqrt{6+x}-x=0\;\rightarrow \; x_{0}=3 \left ( within \;x>0 \right )" /></a>;                         
+
 
 
 
