@@ -49,10 +49,8 @@ And the corresponding continuous form:
 <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{d\left&space;(&space;\sqrt{6&plus;x}-x&space;\right&space;)}{dx}&space;=&space;-\frac{5}{6}&space;<0\;&space;\;&space;with&space;\;&space;x_{0}&space;=&space;3" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{d\left&space;(&space;\sqrt{6&plus;x}-x&space;\right&space;)}{dx}&space;=&space;-\frac{5}{6}&space;<0\;&space;\;&space;with&space;\;&space;x_{0}&space;=&space;3" title="\frac{d\left ( \sqrt{6+x}-x \right )}{dx} = -\frac{5}{6} <0\; \; with \; x_{0} = 3" /></a>.        
 This would give us the elicitation going back to the first chapter in Nonliear Physics and Complex System. We take the Taylor expansion at the neighbourhood of the critical point 
 <a href="https://www.codecogs.com/eqnedit.php?latex=x_{0}&space;=&space;3" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{0}&space;=&space;3" title="x_{0} = 3" /></a>:             
-<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{dx}{dt}&space;=&space;-\frac{5}{6}\left&space;(&space;x-3&space;\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{dx}{dt}&space;=&space;-\frac{5}{6}\left&space;(&space;x-3&space;\right&space;)" title="\frac{dx}{dt} = -\frac{5}{6}\left ( x-3 \right )" /></a>            
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{dx}{dt}&space;=&space;-\frac{5}{6}\left&space;(&space;x-3&space;\right&space;)&space;\;&space;\;&space;\;&space;\;&space;\;&space;\;&space;\;&space;\rightarrow&space;\;&space;\;&space;\;&space;\;&space;\;&space;\;&space;\frac{d\left&space;(&space;x-3&space;\right&space;)}{dt}&space;=&space;-\frac{5}{6}\left&space;(&space;x-3&space;\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{dx}{dt}&space;=&space;-\frac{5}{6}\left&space;(&space;x-3&space;\right&space;)&space;\;&space;\;&space;\;&space;\;&space;\;&space;\;&space;\;&space;\rightarrow&space;\;&space;\;&space;\;&space;\;&space;\;&space;\;&space;\frac{d\left&space;(&space;x-3&space;\right&space;)}{dt}&space;=&space;-\frac{5}{6}\left&space;(&space;x-3&space;\right&space;)" title="\frac{dx}{dt} = -\frac{5}{6}\left ( x-3 \right ) \; \; \; \; \; \; \; \rightarrow \; \; \; \; \; \; \frac{d\left ( x-3 \right )}{dt} = -\frac{5}{6}\left ( x-3 \right )" /></a>                
 
-
- 
 
 
 
