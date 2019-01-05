@@ -33,8 +33,9 @@ After solving the quadratic equation
 <a href="https://www.codecogs.com/eqnedit.php?latex=(k^2-k-6)=0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(k^2-k-6)=0" title="(k^2-k-6)=0" /></a>, 
 we can find that when 
 <a href="https://www.codecogs.com/eqnedit.php?latex=k&space;\in&space;\left&space;(0,&space;3&space;\right&space;]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?k&space;\in&space;\left&space;(0,&space;3&space;\right&space;]" title="k \in \left (0, 3 \right ]" /></a>, 
-<a href="https://www.codecogs.com/eqnedit.php?latex=x_{n&plus;1}\geq&space;x_{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{n&plus;1}\geq&space;x_{n}" title="x_{n+1}\geq x_{n}" /></a>; 
+<a href="https://www.codecogs.com/eqnedit.php?latex=x_{n&plus;1}\geq&space;x_{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{n&plus;1}\geq&space;x_{n}" title="x_{n+1}\geq x_{n}" /></a>;               
 and 
 <a href="https://www.codecogs.com/eqnedit.php?latex=k\in&space;\left&space;(&space;3,&space;&plus;\infty&space;\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?k\in&space;\left&space;(&space;3,&space;&plus;\infty&space;\right&space;)" title="k\in \left ( 3, +\infty \right )" /></a>, 
+<a href="https://www.codecogs.com/eqnedit.php?latex=x_{n&plus;1}&space;<&space;x_{n}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{n&plus;1}&space;<&space;x_{n}" title="x_{n+1} < x_{n}" /></a>.               
 
 
