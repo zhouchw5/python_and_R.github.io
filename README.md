@@ -19,4 +19,7 @@ for(j in n1) {
 }
 ```
 Then we can figure out this result more algebraically.             
-
+<a href="https://www.codecogs.com/eqnedit.php?latex=x_1&space;=&space;\sqrt{6}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_1&space;=&space;\sqrt{6}" title="x_1 = \sqrt{6}" /></a>, 
+<a href="https://www.codecogs.com/eqnedit.php?latex=x_2&space;=&space;\sqrt{6&plus;\sqrt{6}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_2&space;=&space;\sqrt{6&plus;\sqrt{6}}" title="x_2 = \sqrt{6+\sqrt{6}}" /></a>, 
+<a href="https://www.codecogs.com/eqnedit.php?latex=x_3&space;=&space;\sqrt{6&plus;\sqrt{6&plus;\sqrt{6}}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_3&space;=&space;\sqrt{6&plus;\sqrt{6&plus;\sqrt{6}}}" title="x_3 = \sqrt{6+\sqrt{6+\sqrt{6}}}" /></a>, 
+..., 
