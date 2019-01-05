@@ -46,7 +46,10 @@ More mathematically, we rewrite the recurrence relation:
 And the corresponding continuous form:         
 <a href="https://www.codecogs.com/eqnedit.php?latex=\frac{dx}{dt}&space;=&space;\sqrt{6&plus;x}-x" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{dx}{dt}&space;=&space;\sqrt{6&plus;x}-x" title="\frac{dx}{dt} = \sqrt{6+x}-x" /></a>        
 <a href="https://www.codecogs.com/eqnedit.php?latex=\sqrt{6&plus;x}-x=0\;\rightarrow&space;\;&space;x_{0}=3&space;\left&space;(&space;within&space;\;x>0&space;\right&space;)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\sqrt{6&plus;x}-x=0\;\rightarrow&space;\;&space;x_{0}=3&space;\left&space;(&space;within&space;\;x>0&space;\right&space;)" title="\sqrt{6+x}-x=0\;\rightarrow \; x_{0}=3 \left ( within \;x>0 \right )" /></a>;               
-<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{d\left&space;(&space;\sqrt{6&plus;x}-x&space;\right&space;)}{dx}&space;=&space;-\frac{5}{6}&space;<0\;&space;\;&space;with&space;\;&space;x_{0}&space;=&space;3" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{d\left&space;(&space;\sqrt{6&plus;x}-x&space;\right&space;)}{dx}&space;=&space;-\frac{5}{6}&space;<0\;&space;\;&space;with&space;\;&space;x_{0}&space;=&space;3" title="\frac{d\left ( \sqrt{6+x}-x \right )}{dx} = -\frac{5}{6} <0\; \; with \; x_{0} = 3" /></a>.           
+<a href="https://www.codecogs.com/eqnedit.php?latex=\frac{d\left&space;(&space;\sqrt{6&plus;x}-x&space;\right&space;)}{dx}&space;=&space;-\frac{5}{6}&space;<0\;&space;\;&space;with&space;\;&space;x_{0}&space;=&space;3" target="_blank"><img src="https://latex.codecogs.com/gif.latex?\frac{d\left&space;(&space;\sqrt{6&plus;x}-x&space;\right&space;)}{dx}&space;=&space;-\frac{5}{6}&space;<0\;&space;\;&space;with&space;\;&space;x_{0}&space;=&space;3" title="\frac{d\left ( \sqrt{6+x}-x \right )}{dx} = -\frac{5}{6} <0\; \; with \; x_{0} = 3" /></a>.        
+This would give us the elicitation going back to the first chapter in Nonliear Physics and Complex System. We take the Taylor expansion at the neighbourhood of the critical point 
+<a href="https://www.codecogs.com/eqnedit.php?latex=x_{0}&space;=&space;3" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{0}&space;=&space;3" title="x_{0} = 3" /></a>:             
+
 
  
 
