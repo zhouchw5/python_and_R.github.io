@@ -40,7 +40,9 @@ and
 which would give us 
 <a href="https://www.codecogs.com/eqnedit.php?latex=x_{n}\rightarrow&space;3" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{n}\rightarrow&space;3" title="x_{n}\rightarrow 3" /></a>, 
 when 
-<a href="https://www.codecogs.com/eqnedit.php?latex=n\rightarrow&space;&plus;\infty" target="_blank"><img src="https://latex.codecogs.com/gif.latex?n\rightarrow&space;&plus;\infty" title="n\rightarrow +\infty" /></a>. 
+<a href="https://www.codecogs.com/eqnedit.php?latex=n\rightarrow&space;&plus;\infty" target="_blank"><img src="https://latex.codecogs.com/gif.latex?n\rightarrow&space;&plus;\infty" title="n\rightarrow +\infty" /></a>.             
+More mathematically, we rewrite the recurrence relation:                
+
 
 
 
