@@ -29,5 +29,9 @@ and
 <a href="https://www.codecogs.com/eqnedit.php?latex=x_{n&plus;1}=\sqrt{6&plus;k}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{n&plus;1}=\sqrt{6&plus;k}" title="x_{n+1}=\sqrt{6+k}" /></a>, 
 interested in the difference 
 <a href="https://www.codecogs.com/eqnedit.php?latex=(6&plus;k-k^2)" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(6&plus;k-k^2)" title="(6+k-k^2)" /></a>.            
+After solving the quadratic equation 
+<a href="https://www.codecogs.com/eqnedit.php?latex=(k^2-k-6)=0" target="_blank"><img src="https://latex.codecogs.com/gif.latex?(k^2-k-6)=0" title="(k^2-k-6)=0" /></a>, 
+we can find that when 
+<a href="https://www.codecogs.com/eqnedit.php?latex=k&space;\in&space;\left&space;(0,&space;3&space;\right&space;]" target="_blank"><img src="https://latex.codecogs.com/gif.latex?k&space;\in&space;\left&space;(0,&space;3&space;\right&space;]" title="k \in \left (0, 3 \right ]" /></a>, 
 
 
