@@ -23,4 +23,7 @@ Then we can figure out this result more algebraically by using the middle school
 <a href="https://www.codecogs.com/eqnedit.php?latex=x_2&space;=&space;\sqrt{6&plus;\sqrt{6}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_2&space;=&space;\sqrt{6&plus;\sqrt{6}}" title="x_2 = \sqrt{6+\sqrt{6}}" /></a>, 
 <a href="https://www.codecogs.com/eqnedit.php?latex=x_3&space;=&space;\sqrt{6&plus;\sqrt{6&plus;\sqrt{6}}}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_3&space;=&space;\sqrt{6&plus;\sqrt{6&plus;\sqrt{6}}}" title="x_3 = \sqrt{6+\sqrt{6+\sqrt{6}}}" /></a>, 
 ...,  we can find the recurrence relation <a href="https://www.codecogs.com/eqnedit.php?latex=x_{n&plus;1}^2-x_{n}=6" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{n&plus;1}^2-x_{n}=6" title="x_{n+1}^2-x_{n}=6" /></a>.        
-
+We set 
+<a href="https://www.codecogs.com/eqnedit.php?latex=x_{n}=k" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{n}=k" title="x_{n}=k" /></a>, 
+and 
+<a href="https://www.codecogs.com/eqnedit.php?latex=x_{n&plus;1}=\sqrt{6&plus;k}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?x_{n&plus;1}=\sqrt{6&plus;k}" title="x_{n+1}=\sqrt{6+k}" /></a>.           
